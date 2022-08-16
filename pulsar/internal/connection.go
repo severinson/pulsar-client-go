@@ -31,9 +31,9 @@ import (
 
 	"github.com/gogo/protobuf/proto"
 
-	"github.com/apache/pulsar-client-go/pulsar/internal/auth"
-	pb "github.com/apache/pulsar-client-go/pulsar/internal/pulsar_proto"
-	"github.com/apache/pulsar-client-go/pulsar/log"
+	"github.com/severinson/pulsar-client-go/pulsar/internal/auth"
+	pb "github.com/severinson/pulsar-client-go/pulsar/internal/pulsar_proto"
+	"github.com/severinson/pulsar-client-go/pulsar/log"
 
 	ua "go.uber.org/atomic"
 )

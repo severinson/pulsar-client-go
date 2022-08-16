@@ -48,7 +48,7 @@ tracking the status and the progress.
 Import the client library:
 
 ```go
-import "github.com/apache/pulsar-client-go/pulsar"
+import "github.com/severinson/pulsar-client-go/pulsar"
 ```
 
 Create a Producer:

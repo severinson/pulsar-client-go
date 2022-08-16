@@ -23,8 +23,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/apache/pulsar-client-go/pulsar/crypto"
 	"github.com/google/uuid"
+	"github.com/severinson/pulsar-client-go/pulsar/crypto"
 	"github.com/stretchr/testify/assert"
 )
 

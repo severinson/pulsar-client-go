@@ -30,9 +30,9 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/apache/pulsar-client-go/pulsar/internal"
+	"github.com/severinson/pulsar-client-go/pulsar/internal"
 
-	"github.com/apache/pulsar-client-go/pulsar/internal/auth"
+	"github.com/severinson/pulsar-client-go/pulsar/internal/auth"
 	"github.com/stretchr/testify/assert"
 )
 

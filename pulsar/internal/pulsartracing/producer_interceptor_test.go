@@ -21,9 +21,9 @@ import (
 	"context"
 	"testing"
 
-	"github.com/apache/pulsar-client-go/pulsar"
 	"github.com/opentracing/opentracing-go"
 	"github.com/opentracing/opentracing-go/mocktracer"
+	"github.com/severinson/pulsar-client-go/pulsar"
 	"github.com/stretchr/testify/assert"
 )
 

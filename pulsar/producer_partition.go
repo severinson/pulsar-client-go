@@ -25,14 +25,14 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/apache/pulsar-client-go/pulsar/internal/compression"
-	internalcrypto "github.com/apache/pulsar-client-go/pulsar/internal/crypto"
+	"github.com/severinson/pulsar-client-go/pulsar/internal/compression"
+	internalcrypto "github.com/severinson/pulsar-client-go/pulsar/internal/crypto"
 
 	"github.com/gogo/protobuf/proto"
 
-	"github.com/apache/pulsar-client-go/pulsar/internal"
-	pb "github.com/apache/pulsar-client-go/pulsar/internal/pulsar_proto"
-	"github.com/apache/pulsar-client-go/pulsar/log"
+	"github.com/severinson/pulsar-client-go/pulsar/internal"
+	pb "github.com/severinson/pulsar-client-go/pulsar/internal/pulsar_proto"
+	"github.com/severinson/pulsar-client-go/pulsar/log"
 
 	uAtomic "go.uber.org/atomic"
 )
